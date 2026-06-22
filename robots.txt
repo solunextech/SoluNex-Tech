@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /privacy-policy.html
+Disallow: /terms-and-conditions.html
+
+Sitemap: https://solunextech.github.io/sitemap.xml
